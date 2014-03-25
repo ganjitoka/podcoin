@@ -1315,7 +1315,7 @@ Address: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 PDC</source>
+        <source>123.456 POD</source>
         <translation>123.456 PDC</translation>
     </message>
     <message>
