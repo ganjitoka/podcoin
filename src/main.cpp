@@ -1269,7 +1269,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
 {
 	int DiffMode = 1; //LEGACY
 	if (fTestNet) {
-		if (pindexLast->nHeight+1 >= 56150) { 
+		if (pindexLast->nHeight+1 >= 5612) { 
 			DiffMode = 2; //KGW
 		}
 	} else {
