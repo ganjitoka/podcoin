@@ -1320,7 +1320,7 @@ Adres: %4
     <message>
         <location line="+10"/>
         <source>123.456 POD</source>
-        <translation>123.456 PDC</translation>
+        <translation>123.456 POD</translation>
     </message>
     <message>
         <location line="+31"/>

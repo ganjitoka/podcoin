@@ -546,7 +546,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <source>%n active connection(s) to Bitcoin network</source>
         <translation>
             <numerusform>%n active connection to Bitcoin network</numerusform>
-            <numerusform>%n active connections to Bitcoin network</numerusform>
+            <numerusform>%n active connections to Podcoin network</numerusform>
         </translation>
     </message>
     <message>
