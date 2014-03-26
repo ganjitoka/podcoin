@@ -1273,7 +1273,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
 			DiffMode = 2; //KGW
 		}
 	} else {
-		if (pindexLast->nHeight+1 >= 10751) { 
+		if (pindexLast->nHeight+1 >= 10752) { 
 			DiffMode = 2; //KGW
 		}
 	} 
